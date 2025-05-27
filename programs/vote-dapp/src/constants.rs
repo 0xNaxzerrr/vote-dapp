@@ -1,0 +1,1 @@
+pub const MAX_CHOICES: u64 = 5;
