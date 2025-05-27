@@ -1,8 +1,10 @@
 [package]
 name = "vote-dapp"
 version = "0.1.0"
-description = "Created with Anchor"
+description = "A decentralized voting application on Solana blockchain"
 edition = "2021"
+license = "MIT"
+authors = ["0xNaxzerrr"]
 
 [lib]
 crate-type = ["cdylib", "lib"]
